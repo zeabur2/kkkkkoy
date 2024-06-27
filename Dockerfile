@@ -1,1 +1,1 @@
-FROM ghcr.io/eooce/nodejs-argo:latest
+FROM ghcr.io/misswird/kkkoy:mian
